@@ -1,4 +1,4 @@
-variable "basic_auth_user" {
+variable "basic_auth_user" { 
   description = "The basic auth user name."
   type        = string
   default     = "admin"
